@@ -8,11 +8,11 @@ HTML, CSS, JavaScript, React
 
 ## Uses
 
-Axios.get and .then
-useState
-Ternary operators
-Object properties
-Dot notation and bracket notation
+- Axios.get and .then
+- useState
+- Ternary operators
+- Object properties
+- Dot notation and bracket notation
 
 ## API Info
 https://pokeapi.co/ 
